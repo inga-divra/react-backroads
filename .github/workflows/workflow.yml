@@ -2,7 +2,7 @@ name: Github Pages Diploy
 
 on:
 push:
-branches: -"main"
+branches: - "main"
 
 jobs:
 build:
