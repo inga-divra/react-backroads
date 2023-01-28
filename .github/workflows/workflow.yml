@@ -1,7 +1,7 @@
 name: Github Pages Diploy
 
 on:
-push:
+    push:
 branches: - "main"
 
 jobs:
