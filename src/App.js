@@ -6,6 +6,7 @@ function App() {
     <div className='App'>
       <header className='App-header'>
         <img src={logo} className='App-logo' alt='logo' />
+        <h1>You are welcome to a wonderful world of React App</h1>
         <p>
           This is a Backrouds React Project <br></br>
           Converting html/css project into React App
