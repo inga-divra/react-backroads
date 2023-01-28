@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-backroads/static/css/main.073c9b0a.css",
+    "main.js": "/react-backroads/static/js/main.789c6ab5.js",
+    "static/js/787.d2f17b25.chunk.js": "/react-backroads/static/js/787.d2f17b25.chunk.js",
+    "static/media/logo.svg": "/react-backroads/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/react-backroads/index.html",
+    "main.073c9b0a.css.map": "/react-backroads/static/css/main.073c9b0a.css.map",
+    "main.789c6ab5.js.map": "/react-backroads/static/js/main.789c6ab5.js.map",
+    "787.d2f17b25.chunk.js.map": "/react-backroads/static/js/787.d2f17b25.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.789c6ab5.js"
+  ]
+}
