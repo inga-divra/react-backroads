@@ -1,46 +1,28 @@
 import React from 'react';
+import logo from '../images/logo.svg';
+import { pageLinks } from '../data';
 
 const Navbar = () => {
   return (
     <nav className='navbar'>
       <div className='nav-center'>
         <div className='nav-header'>
-          <img src='./images/logo.svg' alt='logo' className='nav-logo' />
+          <img src={logo} alt='logo' className='nav-logo' />
           <button type='button' className='nav-toggle' id='nav-toggle'>
             <i className='fas fa-bars'></i>
           </button>
         </div>
 
         <ul className='nav-links' id='nav-links'>
-          <li>
-            <a href='#home' className='nav-link scroll-link'>
-              home
-            </a>
-          </li>
-
-          <li>
-            <a href='#about' className='nav-link scroll-link'>
-              about
-            </a>
-          </li>
-
-          <li>
-            <a href='#services' className='nav-link scroll-link'>
-              services
-            </a>
-          </li>
-
-          <li>
-            <a href='#featured' className='nav-link scroll-link'>
-              featured
-            </a>
-          </li>
-
-          <li>
-            <a href='#gallery' className='nav-link scroll-link'>
-              gallery
-            </a>
-          </li>
+          {pageLinks.map((link) => {
+            return (
+              <li key={link.id}>
+                <a href={link.href} className='nav-link scroll-link'>
+                  {link.text}
+                </a>
+              </li>
+            );
+          })}
         </ul>
 
         <ul className='nav-icons'>

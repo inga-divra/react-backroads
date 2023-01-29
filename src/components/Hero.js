@@ -2,13 +2,14 @@ import React from 'react';
 
 const Hero = () => {
   return (
-    <section className='hero' id='home'>
-      <div className='hero-banner'>
+    <section class='hero' id='home'>
+      <div class='hero-banner'>
         <h1>continue exploring</h1>
         <p>
-          The world is a book and those who do not travel read only one page.
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae
+          explicabo debitis est autem dicta.
         </p>
-        <a href='#featured' className='btn hero-btn scroll-link'>
+        <a href='#tours' class='btn hero-btn'>
           explore tours
         </a>
       </div>
