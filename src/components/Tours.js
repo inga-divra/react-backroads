@@ -2,21 +2,21 @@ import React from 'react';
 
 const Tours = () => {
   return (
-    <section class='section' id='tours'>
-      <div class='section-title'>
+    <section className='section' id='tours'>
+      <div className='section-title'>
         <h2>
           featured <span>tours</span>
         </h2>
       </div>
 
-      <div class='section-center featured-center'>
-        <article class='tour-card'>
-          <div class='tour-img-container'>
-            <img src='./images/tour-1.jpeg' class='tour-img' alt='' />
-            <p class='tour-date'>august 26th, 2020</p>
+      <div className='section-center featured-center'>
+        <article className='tour-card'>
+          <div className='tour-img-container'>
+            <img src='./images/tour-1.jpeg' className='tour-img' alt='' />
+            <p className='tour-date'>august 26th, 2020</p>
           </div>
-          <div class='tour-info'>
-            <div class='tour-title'>
+          <div className='tour-info'>
+            <div className='tour-title'>
               <h4>Tibet Adventure</h4>
             </div>
             <p>
@@ -24,10 +24,10 @@ const Tours = () => {
               vitae tempore voluptatum maxime reprehenderit eum quod
               exercitationem fugit, qui corporis.
             </p>
-            <div class='tour-footer'>
+            <div className='tour-footer'>
               <p>
                 <span>
-                  <i class='fas fa-map'></i>
+                  <i className='fas fa-map'></i>
                 </span>{' '}
                 china
               </p>
@@ -37,22 +37,22 @@ const Tours = () => {
           </div>
         </article>
 
-        <article class='tour-card'>
-          <div class='tour-img-container'>
-            <img src='./images/tour-2.jpeg' class='tour-img' alt='' />
-            <p class='tour-date'>october 1th, 2020</p>
+        <article className='tour-card'>
+          <div className='tour-img-container'>
+            <img src='./images/tour-2.jpeg' className='tour-img' alt='' />
+            <p className='tour-date'>october 1th, 2020</p>
           </div>
-          <div class='tour-info'>
+          <div className='tour-info'>
             <h4>best of java</h4>
             <p>
               Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque
               vitae tempore voluptatum maxime reprehenderit eum quod
               exercitationem fugit, qui corporis.
             </p>
-            <div class='tour-footer'>
+            <div className='tour-footer'>
               <p>
                 <span>
-                  <i class='fas fa-map'></i>
+                  <i className='fas fa-map'></i>
                 </span>{' '}
                 indonesia
               </p>
@@ -62,22 +62,22 @@ const Tours = () => {
           </div>
         </article>
 
-        <article class='tour-card'>
-          <div class='tour-img-container'>
-            <img src='./images/tour-3.jpeg' class='tour-img' alt='' />
-            <p class='tour-date'>september 15th, 2020</p>
+        <article className='tour-card'>
+          <div className='tour-img-container'>
+            <img src='./images/tour-3.jpeg' className='tour-img' alt='' />
+            <p className='tour-date'>september 15th, 2020</p>
           </div>
-          <div class='tour-info'>
+          <div className='tour-info'>
             <h4>explore hong kong</h4>
             <p>
               Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque
               vitae tempore voluptatum maxime reprehenderit eum quod
               exercitationem fugit, qui corporis.
             </p>
-            <div class='tour-footer'>
+            <div className='tour-footer'>
               <p>
                 <span>
-                  <i class='fas fa-map'></i>
+                  <i className='fas fa-map'></i>
                 </span>{' '}
                 hong kong
               </p>
@@ -87,22 +87,22 @@ const Tours = () => {
           </div>
         </article>
 
-        <article class='tour-card'>
-          <div class='tour-img-container'>
-            <img src='./images/tour-4.jpeg' class='tour-img' alt='' />
-            <p class='tour-date'>december 5th, 2019</p>
+        <article className='tour-card'>
+          <div className='tour-img-container'>
+            <img src='./images/tour-4.jpeg' className='tour-img' alt='' />
+            <p className='tour-date'>december 5th, 2019</p>
           </div>
-          <div class='tour-info'>
+          <div className='tour-info'>
             <h4>kenya highlights</h4>
             <p>
               Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque
               vitae tempore voluptatum maxime reprehenderit eum quod
               exercitationem fugit, qui corporis.
             </p>
-            <div class='tour-footer'>
+            <div className='tour-footer'>
               <p>
                 <span>
-                  <i class='fas fa-map'></i>
+                  <i className='fas fa-map'></i>
                 </span>{' '}
                 kenya
               </p>

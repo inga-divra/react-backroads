@@ -2,14 +2,14 @@ import React from 'react';
 
 const Hero = () => {
   return (
-    <section class='hero' id='home'>
-      <div class='hero-banner'>
-        <h1>continue exploring</h1>
+    <section className='hero' id='home'>
+      <div className='hero-banner'>
+        <h1>backroads react app</h1>
         <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae
-          explicabo debitis est autem dicta.
+          Scelerisque ultricesquis vitae volutpat. Odio ullamcorper tellus
+          gravida cursus.
         </p>
-        <a href='#tours' class='btn hero-btn'>
+        <a href='#tours' className='btn hero-btn'>
           explore tours
         </a>
       </div>
