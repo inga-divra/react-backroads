@@ -1,16 +1,20 @@
 {
   "files": {
-    "main.css": "/react-backroads/static/css/main.073c9b0a.css",
-    "main.js": "/react-backroads/static/js/main.789c6ab5.js",
-    "static/js/787.d2f17b25.chunk.js": "/react-backroads/static/js/787.d2f17b25.chunk.js",
-    "static/media/logo.svg": "/react-backroads/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/react-backroads/static/css/main.675cb51e.css",
+    "main.js": "/react-backroads/static/js/main.c5ba73f3.js",
+    "static/media/tour-3.jpg": "/react-backroads/static/media/tour-3.c9ec91bc2960ca52604f.jpg",
+    "static/media/tour-1.jpg": "/react-backroads/static/media/tour-1.2121505272f0365e9260.jpg",
+    "static/media/tour-2.jpg": "/react-backroads/static/media/tour-2.54f8955542922195661a.jpg",
+    "static/media/tour-4.jpg": "/react-backroads/static/media/tour-4.4756cfe6df67fef7fe33.jpg",
+    "static/media/about.jpeg": "/react-backroads/static/media/about.7e8676e80c8ecf02ba4f.jpeg",
+    "static/media/main.jpeg": "/react-backroads/static/media/main.1486d4061cd0252b9a21.jpeg",
+    "static/media/logo.svg": "/react-backroads/static/media/logo.08d970fd0ddb0af90a9c60fb965e56d2.svg",
     "index.html": "/react-backroads/index.html",
-    "main.073c9b0a.css.map": "/react-backroads/static/css/main.073c9b0a.css.map",
-    "main.789c6ab5.js.map": "/react-backroads/static/js/main.789c6ab5.js.map",
-    "787.d2f17b25.chunk.js.map": "/react-backroads/static/js/787.d2f17b25.chunk.js.map"
+    "main.675cb51e.css.map": "/react-backroads/static/css/main.675cb51e.css.map",
+    "main.c5ba73f3.js.map": "/react-backroads/static/js/main.c5ba73f3.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.789c6ab5.js"
+    "static/css/main.675cb51e.css",
+    "static/js/main.c5ba73f3.js"
   ]
 }
