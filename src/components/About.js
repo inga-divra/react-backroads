@@ -22,7 +22,7 @@ const About = () => {
             fall in love with the world. Explore our trips and live the good
             life with Backrouds travel!
           </p>
-          <a href='#' className='btn'>
+          <a href='#about' className='btn'>
             read more
           </a>
         </article>
